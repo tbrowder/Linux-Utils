@@ -1,0 +1,26 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+    "Text::Utils"
+  ],
+  "depends": [
+  ],
+  "description": "Provides a program to perform various sys-admin tasks on Linux hosts",
+  "license": "Artistic-2.0",
+  "name": "Linux::Utils",
+  "perl": "6.d",
+  "provides": {
+    "Linux::Utils": "lib/Linux/Utils.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
